@@ -1,0 +1,4 @@
+first = "Jeena"
+last = "Rajan"
+full = f"{len(first)} {last}"
+print(full)
