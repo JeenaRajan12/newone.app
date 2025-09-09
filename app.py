@@ -1,1 +1,1 @@
-print("Welcome to consle")
+print("Welcome to console")
